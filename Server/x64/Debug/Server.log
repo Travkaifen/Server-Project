@@ -1,0 +1,3 @@
+﻿  Server.cpp
+D:\Projects\Server\Server.cpp(55,88): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  Server.vcxproj -> D:\Projects\Server\x64\Debug\Server.exe
